@@ -7,3 +7,5 @@ def func_name(name):
 func_world()
 name = "John Doe"
 func_name(name)
+
+print("tag exercise")
